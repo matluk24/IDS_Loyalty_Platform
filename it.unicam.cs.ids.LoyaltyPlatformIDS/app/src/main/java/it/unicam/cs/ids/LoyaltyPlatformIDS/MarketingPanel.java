@@ -4,7 +4,9 @@ public class MarketingPanel {
 
 	
 	
-	public void createCampaign();
+	public void createCampaign() {
+		
+	}
 	
 	
 }
